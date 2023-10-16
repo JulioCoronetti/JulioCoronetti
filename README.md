@@ -1,6 +1,6 @@
 ## 👋 Olá, Eu sou Julio Coronetti
 
-### 📚 - Estudo Técnico de desenvolvimento de sistemas no SENAI
+### 📚 - Estudo desenvolvimento de sistemas no SENAI
 
 <img src="https://github.com/JulioCoronetti/JulioCoronetti/assets/133894436/5320895b-5aa1-4836-af8d-82e183da343b" width="500">
 
