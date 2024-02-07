@@ -5,7 +5,7 @@
 <img src="https://github.com/JulioCoronetti/JulioCoronetti/assets/133894436/5320895b-5aa1-4836-af8d-82e183da343b" width="500">
 
 ### 🔥 - Status
-![timewp's Stats](https://github-readme-stats.vercel.app/api?username=timewp&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![timewp's Stats](https://github-readme-stats.vercel.app/api?username=julioCoronetti&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ### 🧠 - Conhecimento aprendido até agora
 
