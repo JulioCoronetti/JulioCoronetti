@@ -1,17 +1,29 @@
 ## 👋 Olá, Eu sou Julio Coronetti
 
-### 📚 - Estudo desenvolvimento de sistemas no SENAI
+### 📚 - Técnico em Desenvolvimento de sistemas no SENAI
+<p>Olá! Eu sou Julio, um estudante apaixonado por tecnologia e desenvolvimento de software. Com apenas 17 anos de idade, estou constantemente buscando desafios emocionantes e oportunidades para aprimorar minhas habilidades no mundo da programação.
+</p>
 
-<img src="https://github.com/JulioCoronetti/JulioCoronetti/assets/133894436/5320895b-5aa1-4836-af8d-82e183da343b" width="500">
+### <a href="https://juliocoronetti.github.io/" target="_blank">Portfólio</a>
 
 ### 🔥 - Status
 ![timewp's Stats](https://github-readme-stats.vercel.app/api?username=julioCoronetti&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-### 🧠 - Conhecimento aprendido até agora
+### 🧠 - Conhecimento
 
-<img src="https://github.com/JulioCoronetti/JulioCoronetti/assets/133894436/8594d8b3-2186-4115-9616-c423d8d79bed" width="50">
-<img src="https://github.com/JulioCoronetti/JulioCoronetti/assets/133894436/2950f426-ba74-4033-a2c9-e72b514a3b31" width="50">
-<img src="https://github.com/JulioCoronetti/JulioCoronetti/assets/133894436/040dad66-7058-4f88-82d3-bf296231efe9" width="50">
-<img src="https://github.com/JulioCoronetti/JulioCoronetti/assets/133894436/1163ae77-9994-4a03-a83d-4826d697e233" width="50">
-<img src="https://github.com/JulioCoronetti/JulioCoronetti/assets/133894436/1acef3b9-e3a6-4752-9806-36c61a590e12" width="50">
-<img src="https://github.com/JulioCoronetti/JulioCoronetti/assets/133894436/661df5b1-71b5-43cc-9435-7fff4c97f07a" width="100">
+#### 🌐 Frontend
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+#### ⚙️ Backend
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+#### 🛠️ Others
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
